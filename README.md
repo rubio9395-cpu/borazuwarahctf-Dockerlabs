@@ -99,6 +99,8 @@ Finalmente, ejecutamos `sudo /bin/bash` para aprovechar el permiso `NOPASSWD`. U
 
 Escalada de privilegios exitosa obteniendo acceso completo como **root** en el sistema.
 
+---
+
 ## Conclusión
 
 Durante el desarrollo de este laboratorio se llevó a cabo un proceso completo de **reconocimiento, enumeración, explotación y escalada de privilegios** sobre la máquina objetivo.
@@ -109,7 +111,7 @@ Una vez obtenido acceso al sistema, la enumeración de privilegios mediante `sud
 
 Este laboratorio demuestra la importancia de realizar una correcta **gestión de credenciales, control de accesos y configuración segura de privilegios sudo**, ya que configuraciones inadecuadas pueden comprometer completamente la seguridad del sistema.
 
-
+---
 
 ## Recomendaciones de Seguridad
 
