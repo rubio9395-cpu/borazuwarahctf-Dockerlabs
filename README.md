@@ -1,4 +1,4 @@
-# BorazuwarahCTF - Writeup
+# BorazuwarahCTF
 
 ![foto](1.png)
 
